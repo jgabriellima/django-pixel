@@ -1,0 +1,11 @@
+{
+  "name": "Django pixel",
+  "description": "A Django Application",
+  "repository": "https://github.com/jgabriellima/django-pixel",
+  "logo": "",
+  "keywords": [
+    "django",
+    "pixel",
+    "appseed"
+  ]
+}
